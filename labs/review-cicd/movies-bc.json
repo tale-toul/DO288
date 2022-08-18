@@ -8,7 +8,7 @@
         "source": {
             "type": "Git",
             "git": {
-                "uri": "https://github.com/youruser/DO288-apps",
+                "uri": "https://github.com/tale-toul/DO288-apps",
                 "ref": "review-cicd"
             },
             "contextDir": "movies"
